@@ -1,9 +1,9 @@
 [Application]
-    Name = "xiaohuazhu"
+    Name = "template"
     Port = "8080"
     DefaultIcon = "image/picture_b27918ac-b14c-47b8-a93f-f07ccd122aa3.jpg"
 
 [Application.Auth]
-    PasswordSalt = "_jiangjiang"
-    JwtSigned = "bf19d68e1caee5738c7c7194107ec897"
+    PasswordSalt = "123"
+    JwtSigned = "3715279a30dbb62da1ca18f11da46f0a"
     JwtExpireHour = 168
